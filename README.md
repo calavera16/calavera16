@@ -16,7 +16,7 @@ I learn best when I can make something and try it for myself. This is where I ke
 
 ### Activity
 
-**25** authored commits across **3** repositories on **5** active days.
+**26** authored commits across **3** repositories on **5** active days.
 
 2026-10-29 – 2026-11-25 · 28 UTC calendar days, including today.
 
@@ -26,7 +26,7 @@ I learn best when I can make something and try it for myself. This is where I ke
 
 ![Language byte distribution across eligible public repositories; percentages below](assets/languages.svg)
 
-Python 48.4% · JavaScript 41.2% · TypeScript 5.2% · CSS 3.7% · HTML 1.6% · Other &lt;0.1%
+Python 48.3% · JavaScript 41.2% · TypeScript 5.2% · CSS 3.7% · HTML 1.6% · Other &lt;0.1%
 
 Updated 2026-11-25 UTC · Refresh scheduled twice hourly · 7 public repositories, excluding forks and this profile.
 
